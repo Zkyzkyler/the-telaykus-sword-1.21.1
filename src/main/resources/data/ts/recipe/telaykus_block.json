@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NNN",
+    "NNN",
+    "NNN"
+  ],
+  "key": {
+    "N": {
+      "item": "ts:telaykus_ingot"
+    }
+  },
+  "result": {
+    "id": "ts:telaykus_block",
+    "count": 1
+  }
+}

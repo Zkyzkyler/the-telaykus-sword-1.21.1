@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+[[mods]]
+modId="telaykus_sword"
+version="1.0.0"
+displayName="Telaykus Sword Mod"
+updateJSONURL="https://discord.gg/JqQw2jggZS"
+displayURL="https://discord.gg/JqQw2jggZS"
+description="A mod that adds the TELAYKUS sword, craftable only once."

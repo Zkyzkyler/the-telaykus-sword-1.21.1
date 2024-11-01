@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "telaykus_sword",
+  "version": "${version}",
+  "name": "telaykus-sword",
+  "description": "TELAYKUS SWORD, ALL MADE BY ICT STUDIOS",
+  "authors": [
+    "xXlaepadioXx"
+  ],
+  "contact": {
+    "homepage": "https://github.com/Zkyzkyler/",
+    "sources": "https://github.com/Zkyzkyler/telaykus-sword-sources"
+  },
+  "license": "CC0-1.0",
+  "environment": "*",
+  "icon": "assets/ts/textures/item/telaykus_sword.png",
+  "entrypoints": {
+    "main": [
+      "net.telaykussword.power.TelaykusSwordMod"
+    ]
+  },
+  "resources": [
+    {
+      "resourcePack": "telaykus_sword"
+    }
+  ],
+  "depends": {
+    "fabricloader": "*",
+    "minecraft": "~1.21",
+    "java": "*",
+    "fabric-api": "*"
+  }
+}
